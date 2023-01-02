@@ -1500,7 +1500,7 @@
 		"graphql-tag": "2.11.0",
 		"jsdom": "16.4.0",
 		"jsdom-global": "3.0.2",
-		"json5": "2.2.0",
+		"json5": "2.2.2",
 		"merge-options": "3.0.4",
 		"minimist": "^1.2.5",
 		"mkdirp": "1.0.4",
